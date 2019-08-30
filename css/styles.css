@@ -3,7 +3,8 @@ html {
 }
 
 .section {
-  background: url("james1.jpg");
+  text-align: center;
+  /* background: url("james1.jpg"); */
   height: 600px;
   padding-top: 100px;
 }
