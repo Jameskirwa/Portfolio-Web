@@ -3,7 +3,7 @@ html {
 }
 
 .section {
-  background-image: image("james1.jpg");
+  background: url("james1.jpg");
   height: 600px;
   padding-top: 100px;
 }
